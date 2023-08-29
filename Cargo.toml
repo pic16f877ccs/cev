@@ -1,0 +1,14 @@
+[package]
+name = "cev"
+version = "0.1.0"
+edition = "2021"
+authors = ["Karl Wulfert <pic16f877.ccs@emailn.de>"]
+readme = "README.md"
+repository = "https://github.com/pic16f877ccs/cev"
+homepage = "https://github.com/pic16f877ccs/cev"
+license = "MIT"
+keywords = ["collection", "raw-vec"]
+categories = ["memory-management", "rust-patterns", "data-structures"]
+description = "An expandable data array used to add data to the beginning of the array."
+
+[dependencies]
