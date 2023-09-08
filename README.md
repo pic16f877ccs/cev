@@ -1,7 +1,7 @@
 # cev
 An expandable data array used to add data to the beginning of the array.
 
-```
+```rust
 use cev::Cev;
 
 let mut cev = Cev::new();
