@@ -55,6 +55,7 @@
 //!         ² To allocate and deallocate an array.
 //! ```
 //!
+#[doc = include_str!("../README.md")]
 mod alloc_err;
 mod cev;
 mod raw_cev;
